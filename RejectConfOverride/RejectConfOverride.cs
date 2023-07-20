@@ -10,7 +10,7 @@ using HarmonyLib;
 
 // For more, visit https://openmod.github.io/openmod-docs/devdoc/guides/getting-started.html
 
-[assembly: PluginMetadata("Blockie.RejectConfOverride", DisplayName = "DisableMapConfigOverride")]
+[assembly: PluginMetadata("Blockie.RejectConfOverride", DisplayName = "Reject Config Override")]
 namespace MyOpenModPlugin
 {
     public class MyOpenModPlugin : OpenModUnturnedPlugin
