@@ -17,10 +17,11 @@
     <PackageVersion>1.0.0</PackageVersion>
     <RepositoryUrl>https://github.com/BlockyJiangzi/RejectConfOverride</RepositoryUrl>
     <PackageProjectUrl>https://github.com/BlockyJiangzi/RejectConfOverride</PackageProjectUrl>
-    <PackageId>Blockie.RejectConfOverride</PackageId> <!-- must be unique, should be same as your plugin ID -->
-    <PackageDescription>Stop level configuration overriding config.json</PackageDescription>
-    <PackageLicenseExpression>GPL-3.0-or-later</PackageLicenseExpression> <!-- see https://spdx.org/licenses/ -->
+    <PackageId>Blockie.RejectConfOverride</PackageId>
+    <PackageDescription>Stop Config.json being overridden by maps.</PackageDescription>
+    <PackageLicenseExpression>GPL-3.0-or-later</PackageLicenseExpression>
     <PackageAuthor>Blockie</PackageAuthor>
+    <Authors>Blockie</Authors>
   </PropertyGroup>
 
   <ItemGroup>
