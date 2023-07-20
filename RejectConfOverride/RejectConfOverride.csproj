@@ -17,7 +17,6 @@
     <PackageVersion>1.0.0</PackageVersion>
     <RepositoryUrl>https://github.com/BlockyJiangzi/RejectConfOverride</RepositoryUrl>
     <PackageProjectUrl>https://github.com/BlockyJiangzi/RejectConfOverride</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/BlockyJiangzi/RejectConfOverride</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageId>Blockie.RejectConfOverride</PackageId>
     <PackageDescription>Stop Config.json being overridden by maps.</PackageDescription>
