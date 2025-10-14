@@ -1,6 +1,6 @@
 # [obsolete]RejectConfOverride
 
-This is now ossolete. You can achieve same effect with the new Config.txt.
+This is now obsolete. You can achieve same effect with the new Config.txt.
 
 A simple plugin for OpenMod/Unturned<br/>
 It will prevent Config.json being overridden when you load a map that changes your game config.
